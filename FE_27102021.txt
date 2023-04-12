@@ -1,0 +1,258 @@
+Hi there, you got this email immediately (typical autoresponder behavior), which means I’m out of office on holidays. 
+
+Call me or message me on Whatsapp on 079 358 5197 ONLY if: 
+•    You’re the Easter Bunny, and you have some chocolate eggs for me, or
+•    You're Santa Claus, and you realized you forgot a present for me back in Christmas 2022.  Maybe a new bass guitar?  I'd love a 5-string Rickenbacker 4003. A Nord Stage 4 73 would be sweet too.
+
+Oh, yeah, or if:
+•    Our website is down, or login doesn't work
+•    Something the Marketing team published is blatantly wrong and needs immediate correction, and you can't find ANYONE ELSE. 
+
+OK, I think this is it.  You reached the end of my OoO.  Looking forward to reconnecting once I'm back, on April 17th.
+
+All the best,
+
+Fernando
+
+
+
+I'm sure she was, and we need to discuss with her next week that she should stick to the process.  We'll also have to explain to Sarah that this may have been manual exceptions that Viki might do from time to time, but "we" (the rest of the team, while she's on holidays) might or might not do, depending on time availability.
+
+Jie, do you know if this is already done?  It's still in my inbox, and I wonder if I can already "store" it/delete it.
+
+
+I don't know when it changed, but since Laura and your predecessor worked on completely new pages, I assume the new ones were built on the new URL.  I suggest you simply update the links in AO SR, as the new pages are the ones in our robots file, and the ones indexed by Google and the other search engines.
+
+
+Do you know what Rachel means by "we were tracking in GA from the AOSR pages" ?
+
+
+For "documentation" purposes (since Jie might see this in a few weeks):
+
+We implemented a workaround by including additional facets in the search (course level), so the non-course pages no longer feature in the results.
+
+I discussed with Michi how to report the issue to Valtech, and we agreed I'd send an IT ticket, which he would copy-paste in the new shared JIRA board.  He's already working on it
+
+
+Folks, we have quite a few topics to cover in our next meeting. Among the most prominent are:
+•	New roles and responsibilities (how we will distribute our established products and other projects that are "floating around")
+•	Change process for Maya 2.0 – How to best help EOs and IMs on track
+•	Maya + Falcon + IMs: Marketing role in first social media post
+
+I need also 2 min in private with each of you to go over your contract ammendments, which we can do in the morning, as we get to the office.
+
+Any other topics that we need to "put in the agenda" ?
+
+Damn, I missed to include the Course Calendars in the AO CMF top 10. ☹  Shame, shame, shame, shame, shame, shame, shame…
+
+Sabine, sorry for the delay.  I wanted to go a little bit the extra meter (yeah, it's not an extra mile by a long shot).  I thought I could give it a little extra thought to list not only important pages, but also what actions inside those pages are the most meaningful.  Often there are 1, 2, maximum 3 anyhow.  Here's my input:
+They are in a VERY VERY VERY rough priority order.  Needless to say, I chose and sorted them in a "shoot from the hip" way, without any scientific measurement or data.  Off them, I'd also prioritize specific actions:
+Note: I would have also added "Research grants" (https://www.aofoundation.org/cmf/research/research-grants) which I think has very high engagement potential, but it's VERY outdated and needs a lot of new text to explain what it is, check the dates, add CTAs, etc.
+
+I could be wrong, but my understanding is that the issue has nothing to do with GA4 being visible in the AO network, but rather that the data reporting for the property "Extranet" (Fonteva course pages) in GA4 differs from the data we see in Universal Analytics (and it's consistently lower in GA4) by a wide margin:
+
+
+Important to notice is that Marketing hasn't budgeted for this tool, so if you want to keep it, please keep in mind to plan for the related cost.
+
+
+You don't need to submit a medical certificate for a 2-day absence. 😊  Just mark them as sick days (the doctor will give you a certificate EVEN if you don't ask for one, but you don't need to take the trouble to scan it).
+
+Just relax, focus on resting and recovering.  I had it done myself some years ago, and while it was not a fun ride, it was a lot less worse than I expected.  But you still need 2 or 3 days off to fully recover to anything resembling normality.
+
+I wish you a relaxing time over these coming holidays, and look forward to another excellent year in 2023 !
+
+Cheers,
+
+
+I urge everyone to limit your comments to errors, and not potential optimizations or improvements. We are incredibly late with this task, which is preventing us from taking the next step for implementation (and quite possibly preventing evoq from invoicing us, which means more administrative tasks for us to accrue the cost to next year).
+
+Let's please do everything we can to close this phase of the project with evoq once and for all.
+
+We already drafted a Cookie Policy explaining in detail what each cookie is for, and it's right now with Infosec and Legal Counsel.  As soon as they give me the finished version, we'll publish it.
+
+Holy smokes, that's a 3-hour session.  It will have to wait until next week (my wife will be travelling all week, I'll have plenty of time in the evenings). 
+
+Dear all,  we are currently 19 users in Falcon, which will cost the AO 15% more than it did last year. 
+
+Marketing will only subsidize 1 implementation manager by region as of 2023. Any other user holding a license will be cross charged to the department.  Based on activity in Falcon, pretty much everyone uses Falcon very frequently, but if you plan to hand over your responsibilities to someone else, please contact the Marketing team at the earliest opportunity.
+
+Wish you all a great weekend !
+
+Dear all, in cooperation with the Operational Excellence team we have completed a thorough tender to select a marketing agency. While both Kaboodle and Nougat (our to-date current partners) took part in the tender, the process selected a new agency called evoq. 
+
+Evoq was founded in 2007 and it employs over 30 employees in Zürich and in Cologne (Germany).  We believe that with their team of project managers, consultants, designers, copy writers, and web programmers we can significantly extend our marketing support capabilities beyond what we were able to do with our two small agency partners. We have thanked Nougat and Kaboodle, and started a hand-off process of all OA intellectual property.  We will continue to employ Nougat for medical illustrations, typesetting, and other services that a marketing agency cannot deliver.
+
+As instructed by our COO, we will no longer commission work (with the exceptions noted above) from either Kaboodle or Nougat after August 31st and all new orders will be routed to evoq.
+
+The AO Procurement team has also designed with us a new, stringent but smart process to manage orders for Marketing-related services.  The spirit of the process is very straightforward: just as not everybody can pick up the phone and order furniture, printer supplies, or cleaning services, there's a very small group of people authorized to order marketing services.  If you need Marketing Services, please follow the simple steps below (also detailed in the Marketing InSite page and attached in Powerpoint format to this e-mail):
+
+1.	Place a ticket for Marketing Services via the existing ticket system here (link also available on the page linked above): https://aofoundation.knack.com/ao-service-requests#home/. Use the form called "Request Marketing Services".
+
+2.	The Marketing team will evaluate whether we can perform the service in-house, at no out-of-pocket cost to your team, or if it must be outsourced (you will have to allocate a budget to it). If we can take care of it ourselves, we will get to work on it, and will involve you as soon as possible and there will be no cost to cover.
+
+3.	If the project must be outsourced to evoq, we will assign the ticket to the Procurement team (for transparency and controlling reasons), and we will inform evoq that the project has been approved for them to take over.  Following this:
+a.	if the topic is simple and heavily based on a template (e.g. a call for nominations, call for applications for grants, or election results announcement, the likes of which we have done hundreds of times), we will reply to your ticket instructing you to contact someone in evoq directly.  The Marketing will not be involved directly, as no creative briefing or direction is necessary.  This is almost the same process as you followed in the past with our previous agencies, except that there is now a ticket system involved, which shouldn't take you more than 2min.
+b.	if the topic is complex, involving communication consulting from our side, creative briefing, etc, we will assign a Marketing representative, assign the ticket to Procurement, and we will set up meetings with you and evoq ourselves.
+
+In brief, the process is VERY simple, and it starts with your ticket.  Very little to anything should change or affect your everyday work.  If you have any questions, doubts, or concerns, please let me or any Marketing Initiatives team member know.
+
+We are 100% OK to have walk.me in https://login.aofoundation.org/, in the "Forgot Password" page, and in the "Change password" page.  We can include a "Technical issues" contact column in the different "Contact" pages (e.g. https://www.aofoundation.org/trauma/about-aotrauma/contact), but we do not want walk.me anywhere in the CD sites.  It provided nearly no functionality, no analytics, and massive load-time delays.  We didn't see any reason to troubleshoot a functionality we don't need or want. After clearing it across global networks, we decided to remove it.
+If we see that people send too many e-mails to EOs or community managers (which we have not seen since we decommissioned walk.me several months ago), we'll be happy to tackle it without delay.
+
+Folks, I'm terribly sorry about yesterday and my meetings no-shows.  I planned the day very poorly (it was Andreea's first day, as Monday was a national holiday), and in my rush to go on my holidays 2 weeks ago I missed to cancel or postpone the meetings on Tuesday.  To make matters worse, my mother's flight (she's here visiting) was delayed by 16h, and I had to drive to the airport to pick her up in the middle of the afternoon, which turned my day upside down.
+
+Please accept my apologies, it's rather unexcusable to disappear without explanations. I was a bit overwhelmed by the situation and completely missed to check in with you all.
+
+Thank you for your patience 
+
+Folks, remember I'll be on vacation for the next 2 weeks, so you're free to run the weekly meeting as you see fit.  Hopefully Sabine will be back on her feet and feeling better.
+
+
+Martina, with FF residing in Sitecore, you can get your customized read report, by article, from Google Analytics (much better than Pardot, which only told you clicks on the e-mails, but not real page views of the FF issue).  I suggest you set up a meeting with Jie, explain what you need, and she'll come up with the best solution for a standardized report that you can read on-demand at any time.
+
+
+Folks, pls see attached the keywords that significantly improved in rank this week in our sites (excluding Surgery Reference).  Notice I ordered them by search volume, and highlighted the higer volume ones.  Lots of Spine this week (as we almost completely recovered the rank we had before the Sitecore upgrade).  Among these 100 keywords, our average rank improved from 55 to 35. 
+
+
+Hi Mariya,  we have very recently made structural changes to our websites landscape: we moved all our sites from separate subdomains to 1 domain, and the old subdomains (e.g. aotrauma.aofoundation.org, aospine.aofoundation.org, etc) are now virtual sites as directories (i.e., aofoundation.org/trauma, aofoundation.org/spine, etc).
+
+This has a nasty impact on SEMRush, as we can't track them separately anymore.
+
+What would be your suggestion to allow us to keep separate keywords, position tracking, competitors, social media, etc?  Is there something in a different license level that we can upgrade to that would give us that flexibility?
+
+
+Dear colleagues,  the go-live of all sites was delayed last week again due to technical difficulties (the login function wasn't working properly, which cascaded into a 4-day Whack-a-Mole resolution process).  We finished solving all problems and we have already gone live with the first 3 "local" sites (AO Trauma Germany, AO Trauma Austria, and AO Trauma Netherlands); we're quite confident that the Foundation site and all clinical area sites will be live before the end of the day tomorrow.  We apologize for the delays we faced, and thank you for your endless patience in waiting for your content to be posted these last 4 weeks.
+ 
+We have secured extra support from our external partners for content editing next week, as we start going through the backlog of new pages and news; the goal is to publish all pending content within the week. 
+ 
+There's one very important note for your information and action:  The website URL (the "internet address") for AO Trauma, AO Spine, AO CMF, AO VET, and AO Recon will change a bit. This means that all "old" links will no longer work.  This does not apply to the AO Foundation site and the Institutes pages. 
+ 
+If you or your colleagues have existing marketing or promotional materials featuring links or QR codes in them, we must do the following to guarantee that they will continue to work:
+1.	You collect all materials featuring links or QR codes
+2.	Report the link in your material/s using this simple spreadsheet:   Links redirects.xlsx
+3.	We will create the redirects in the new website, so when people attempt to use the "old" links, the system will forward them to the new, correct link
+ 
+If we don't do the above, surgeons that click, scan or type the old links will read an error page, and be redirected to the homepage.  We only need to do this if there are materials featuring links valid until today pointing to the AO Trauma, AO Spine, AO CMF, AO VET, or AO Recon websites.  If you have older promotional materials that we will no longer use, this is not necessary.
+ 
+Once again, thank you for your flexibility, understanding, and patience during this process. If you have ANY questions, please don't hesitate to contact me.
+
+Rita is correct in that we implemented a solution (called Hevo) to extract data from Pardot and cross-reference course registrations in Fonteva/Salesforce among "e-mail clickers".  This will allow us to create reports that show us:
+•	Effectiveness and ROI of our e-mails (i.e., what % of users who opened the e-mail and clicked on the course link/s ended up registering)
+•	Importance of e-mail in contrast to other sources (i.e. what % of registrations come from e-mail clickers, vs other traffic/awareness sources)
+
+All other e-mail analytics (i.e. sent, received, opened, clicked, etc) we will not extract via Hevo, and will probably continue to use Pardot's native "Reports". At least for now; maybe we'll expand into other analytics areas in the near future.
+
+For now Rebel can either find a solution to ETL the data from Pardot (the standard CSV with the e-mail analytics), or wait until we're completely finished with Hevo set-up (we're tweaking the last things before we produce the first reports), and see what data pipelines we can implement for them.  We already tested Supermetrics in late 2021 (before deciding for Hevo), and were not satisfied with either their technical performance or their support, so we know for a fact that Hevo can do everything that Supermetrics can do, and more.
+
+Hope this helps.
+
+
+we tried to extract some analytics for the AOT World Meeting page, when we noticed that the GA tags on it were wrong: instead of UA-115991858-12 (AO Meta property) and UA-115991858-41 (AO NA property), we found UA-115991858-12 and UA-115991858-2 (AO Trauma International).  It also had the wrong GTM tag (GTM-PT2WKTT), which is the AO Trauma International) instead of the AO NA GTM tag (GTM-MXDQVHZ). 
+
+Wondering what else could be wrong in the AO NA site, we ran a quick tag audit, and found:
+•	an unknown (to us) tag (UA-8911111-2), which is present only in some 40 events (see the attached spreadsheet). @Jakob  Bower: do you know what this is?  The snippet has a comment "Google Tag Manager As Request by AO Dhana Mar 2018"
+•	2 SXA pages have the Surgery Reference tag (UA-115991858-29).  These should be removed.  These 2 pages also have the wrong GTM container (GTM-MBJGLZR), which should be corrected to the normal AO NA GTM container.  
+
+Folks, one of us who joined the workshop on Thursday in Landquart tested positive for COVID-19 yesterday.  Our colleague is well and almost asymptomatic.
+
+Please be mindful of potential symptoms in case you got it during our meeting, particularly if you may get in contact with persons who might be either unvaccinated or inmunocompromised.  At this point, with everyone fully vaccinated, there's no reason to be seriously worried about it, but it's important to take precautions as we would always have done if we had the flu: limit contact with others and look after ourselves.
+
+Dear all, a few minutes ago we finished the monthly Marketing-EER meeting, during which I presented the latest updates to our marketing collateral mix for event promotion (new e-mail segmentation lists, Whatsapp cards as standard assets, faculty card templates in Canva), and showed for the first time the Course Calendars (some draft examples attached, for your reference).  They were a big hit, and everyone (especially Eberhard, Diana, Sarah, and Florence) was very enthusiastic about them.  We discussed briefly the need for the EER team to activate the DPS team to be aware of the new materials, and to remind them to use them, and we agreed on some next steps and ideas to host the files. 
+
+At the end of the meeting I also gave a quick overview of the next steps, including our goal to launch Maya 3.0 in Q3 featuring some self-service options, and the launch of an e-mail attribution tool in the coming weeks, both of which were also received with near ovation.  
+
+While we're at it, I want to mention that I also presented a similar deck at today's GEP Training for Asia Pacific in the morning, during which Irene Eigenmann also congratulated the entire Marketing team for profesionalizing the AO's marketing muscle.  Stefan and the rest of the DPS team was equally impressed.
+
+I hereby extend Irene's, Eberhard's, and Eberhard's team's praise to the people that made it possible.   GREAT job, folks.
+
+Let's accept the kind words, and get ready for the next milestones !
+
+Spring cleaning !!!  Let's throw away our old plans, and make new ones. 😊
+
+Actually no, but it IS time to finally have a proper meeting, and discuss what 2022 and 2023 should look like.  We'll spend a few hours together, debating and brainstorming how the marketing initiatives roadmap will look for the near-mid term, and articulating them with the Digital Marketing roadmap, of which we have a top-level draft, pre-discussed with IT and Valtech.
+
+We have achieved A LOT in under 9 months since GN was created, even without clear performance goals written down (we had goals, but it was mostly about "navigating the storm" and "keeping the business running").  Imagine what we can do in 2022 with our new foundations and a roadmap that we build together !
+
+I propose the following agenda:
+09:00 – 09:20              Arrival, greeting, coffee, etc
+09:20 – 10:00              Marketing vision
+10:00 – 11:30              Roadmap 2022 – Part 1
+11:30 – 13:00              Lunch (I know, it's a long break, but we need to enjoy the good company)
+13:00 – 14:30              Roadmap 2022 – Part 2
+14:30 – 15:00              Coffee break
+15:00 – 17:00              Roadmap 2022 Part 3, and Roadmap 2023 (first approach)
+
+We can make adjustments and tweaks until Thursday, and some last-minute changes on the fly too.  Therefore, feel free to let me know if there's any important topic for which we'll need air-time.
+
+Logistics: feel free to arrive earlier (I'll be there at 8:00 or so) if you want.  For the return, the train leaving for Zürich leaves from Landquart at 17:18, arriving at HB at 18:22 (there's a decent combination, albeit with a change in Olten, that arrives in Basel at 19:45).
+
+This gives us well over 5:30 hr of "business talk", and I'm sure that if we are disciplined with our discussions, we will achieve our goal of ending the day with:
+
+•	A clear Marketing Initiatives vision
+•	A clear, agreed 2022 roadmap, that articulates into a good draft roadmap of 2023
+•	A full belly of lunch, coffee break cookies and some fun convos
+
+Looking forward to a productive meeting !
+
+As discussed before and mentioned a few times by HR, the appraisals for last year are soon due. Attached you find the current forum for preparation.  This needs to be handed in to HR this month, but we don't need to fill 100% of it.  Please do make sure you complete points 2 through 5 though.
+We will prepare the goals for 2022 a bit later in February, directly in the new system.
+May I ask you to fill in this document and send it to me in the coming days?
+
+I assume this was cleared with Legal Counsel back when GDPR kicked in (or later, when the new site was launched, almost a full year after GDPR came into effect), but in case Heiner doesn't remember where we are, I'll add a drop of information.  Our site doesn't currently offer users any options; they can either accept cookies, or leave our site:
+
+Hi Mike,  we are aware, and in the scope of the Sitecore upgrade we will also implement GDPR-compliant granular cookie consent. The go-live date is set for late March/early April.  We should have been compliant already back in May 2018, when GDPR went "live", so we thought that keeping the exposure window open for a few more months was acceptable, rather than incurring in a big cost initiative that we would have to re-do anyhow when we upgrade SC.  Brian was involved from the beginning, and can potentially provide additional details if you need them.
+
+
+Can we have a 1-to-1 quick update meeting this week, so you can bring me up to speed of where you are with attribution modelling in general?  Please don't prepare any slides specially for it. A short conversation should suffice.  Feel free to book any time that works for both of us.
+
+I have a few small pain points with analytics for our internal promos.  Hopefully we will have time to cover that as well (in case you're wondering, I'm not seeing any traffic from our promos on the homepage, and I have a feeling it's more an analytics glitch than actual user navigation).
+
+See you tomorrow at the latest !
+
+I want to remind everyone of the HR regulations regarding working hours, as this year there will be a small exception to the rule.
+
+1)	Our allowed working hours are from 6AM to 8PM on weekdays (there are exceptional allowed working ours in the evening, from 8PM to 11PM, and on weekends, but they must be approved in writing in advance)
+2)	The maximum daily working hours, including legally required breaks, is 14 hours (12.5 net hours)
+3)	The maximum weekly working hours is 45 hours
+
+If on any week you work more than 42 hours, but less than 45 hours, those excess hours will be accumulated in your "Flexible time" account (you can see your Flexible Time balance in your Employee Central section).  If you have to work more than 45 hours in any week, you need written approval in advance.  The weekly hours over 45 hours will be accumulated in your Overtime account (which you can also see in your Employee Central).
+
+There are special conditions for business travel.  You can read all about our regulations in the HR Documents section in InSite or in the attached HR Annual Working Hours document.
+
+What's different this year?  Given the increased workload due to COVID and postponed courses, and only as an exceptional circumstance, all overtime by 31.12.2021 will be paid out and reset, as well as all flexible time over 40 hours.  We will all start 2022 with 0 overtime, and a maximum of 40 hours in our flexible time account.
+
+We in Marketing have been rather naughty in 2021, and accumulated a lot of overtime, which I have given you the flexibility to log without prior approval.  Going forward, in 2022, I will not approve any overtime that's not agreed in advance anymore.  I care deeply about your wellbeing and work-chill balance, and although I cannot force you to limit your working hours to ~42 hours per week, at least I can insist by all means possible to NOTICE it, and I want you to be painfully aware that I will not enable you to work yourself to exhaustion.
+
+Take-home message: plan your work within 42 hours per week. Exceptionally you can work extra, up to 45 hours per week.  Only with prior written approval can you work over 45 hours in a week, which you MUST compensate ASAP.  If you can't deliver on your goals with 42 working hours per week, please let me know, and we will review your goals and workload together.
+
+Let's have a quick call before the end of the year, to do an informal recap of the year.  Can you fill in the attached questions (I don't need the document at all, it can be notes in pencil, in Word, or just in your head) for our meeting?  I'll send the invite separately.
+
+
+Team, just a few mini updates of what's been happening the last few days in meetings I had around the AO:
+
+•	I met with the EE&R management team (we meet once a month), and we discussed with them
+o	their protograph needs for 2022. APAC is aching for course images featuring Asian surgeons.  LatAm is happy with what they have.  Erich shared a little new template/table for what standard images we will use, by clinical division, for each event type, by region.
+o	the Sitecore upgrade project, the manual migration schedule, and the new domain strategy (including the governance for new domains/subdomains).  No comments there at all, perhaps because we mentioned that it was approved by the Foundation Board.
+o	the outlook for 2022 when it comes to regular course paid promotion. There were a few single questions, but nothing high level, only operational (e.g. how we choose what courses to promote, how many courses at the same time, etc)
+
+•	In the Digital Marketing team weekly meeting with IT we commented that we submitted to Tobias the Project Maya documents (both a Project Charter as well as a matrix that IT uses to define a projet size).  Brian Ingle asked to see the product, so I showed what Airtable looks like, Jie did a short micro-demo.  Brian, Tina, and Alex had very few (if any) comments, and believe that this doesn't need to go through the IT Steering Board.  He said that he can approve this himself, but will look a little into it.  I shared my log-in credentials with Tina, and they'll look a bit "behind the scenes".  I'll follow up soon to see if we get a formal green light soon (soon as in a week from now)
+
+•	Jayr was a guest in the monthly meeting between EE&R and Network Development.  He said it was quite chaotic, and they ended up talking about Marketing topics.  But what came out of it was that Jayr will ask the Clinical Division Directors for "direction" on what they believe should be the key content topics for 2022, including dates and contact persons.  Off this we should be able to start laying down some "content blocks" in the Airtable Marketing Content Calendar (I see that Raluca created it, and started playing a bit with it).  Let's discuss this next week.
+
+Dear colleagues,  year-end comes in just days.  Thank goodness!  This also means that we must remind you to send us your open invoices ASAP.  Whatever invoices we don't receive before the end of next week will be charged to next year's budget, which impacts our investment capacity for 2022.
+
+I'd like to ask you to please send us any and all open invoices for 2021 THIS WEEK.  It's absolutely key that this is done timely, as we don't want invoices slipping past us and hitting our budget for next year.  I am aware this may be critical for some things not fully rendered by Dec. 17, but I will be more than just thankful if we could just "project" what will be done by Dec. 31st and charge it.  I'll be much happier paying for adjustment differences in 2022 than for the entire invoice.  And if there's a small credit, so be it.  
+
+If you have any questions or comments, please do let me know ASAP. 
+
+Folks, I have set-up a recurring appointment for all of you on Tuesdays late afternoon (in Outlook), as a last reminder to have the weekly project status report updated.  Jayr and I go over this on Wednesdays morning every week, and I check every Tuesday afternoon that the sheets are updated. This week is the 3rd consecutive week with little-to-no updates (which means I have to update all sheets with the best of my knowledge from our 1-to-1 conversations, which isn't always up-to-date or perhaps even correct). 
+
+This means that either there's no progress at all in any key project that we are tracking (which means we're not putting enough effort or resources into the most important projects in our roadmap), or you're not taking the report seriously enough.
+
+I ask you one last time to take the update of you most important and visible projects with the utmost priority.  If you know that you will have absolutely no time to do this on Tuesday, please do it on Monday, or on Friday before logging off.  I am almost embarrassed to have to do this kind of follow-up;  please take action immediately.
+
+Sasi, Jie will have a meeting with Brian tomorrow to go over the API connector first.  Brian understand the business-case for Pardot-Salesforce, but he's also very interested in Funnel.io for other IT applications, so who knows…maybe it will become more affordable for us if we split the cost.  I understand that one solution doesn't eliminate the other off the map, but I think we can only tackle 1 or 2 things at a time, and playing around with new Salesforce objects has complexity beyond the connector itself (e.g. creating the custom object, defining its variables, setting up the mapping in Boomi) and cost implications (and we can't easily calculate the disk space that this "click-sync" will take in Salesforce, as Pardot won't tell us how many data points we're looking at).
+
+During our last meeting, the open question that Bill said he'd look into was how you'd extract data from Pardot (not about UTM tags, which we've been using for the longest time). Our need is to develop a full attribution model across sources, and Pardot has been so far the most elusive one.  During the last few weeks we made progress in extracting data from Pardot ourselves, so please give us a little time to see if our homebrew solution works out.
+
+We'll be in contact.  Cheers,

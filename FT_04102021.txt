@@ -1,0 +1,101 @@
+Hi Jie.  Have you set up a call with Kaboodle, to talk about the e-mail report?
+do you mind if I do?  It's kind of a growing concern, and I promise I will keep you 100% in the loop
+Hi Jie, good morning.  Can I take a few min. of your time with a semi-technical question?  I want to know if we can ask you for UTM codes for e-mails (to improve the source attribution in GA), or if we just don't do it at all.
+I was just trying to read GA for our Course Finder, and it's just impossible to understand if people are coming from our e-mail campaigns or not.  It certainly looks like it, but we send SO MANY e-mails, that we don't know WHICH campaigns they come from, other than via the unique clicks 
+but it's not all that reliable
+It's nearly 40% of the traffic to the Course Finder
+we HAVE to break it down
+yeah, makes sense
+I can offer Spine to do a "pilot" UTM introduction
+we can invite Kaboodle to join, and we can experiment with ours first
+OK, I'll tweak your file, to include closed validation, so people can just use a pull-down, and not make typing mistakes
+when they build the full URL
+oh, you already included SOME validation
+Oh, I see what you mean.  You need to include some "IF" in the concatenate function, so that if the field is empty, it doesn't add the parameter
+Well, I'll leave the question here: I would like to do some in-depth analytics in Pardot (for example: take all the spine opt-ins, and cluster them in percentiles according to their e-mail opening rate, or CTR).  I can't seem to be able to do that...and I guess we just don't have the right Pardot modules.  Is that correct?  Do you think I can hire Valtech to do it for us, in Spine?
+Good morning, Jie.  Is there currently a way to check for video views from Kaltura (at least those embedded in our pages) in GA?
+Good morning, Jie. I have a silly, rather embarrasing question about GA.
+Uffff....looong meeting with the team
+I think the ONLY thing that's missing in the video dashboard is the ability to filter by clinical division.  The Excel export doesn't work very well, because the NAME contains commas, which makes column parsing impossible.  So filtering would be quite important.
+When you export the "Most popular videos across AO" (at the very bottom of the dashboard), all CDs are mixed together.
+If you want to see, for example, how a specific video is "ranking", it's hard to find with SO many videos from Trauma
+especially since the same video appears a few times, not only once
+the list is roughly 10'000 lines long
+I would also suggest you put the referral path as the last column
+because it has slashes and dashes in the text string, which messes the text operations
+No, I don't think so.  There is probably a video hub tag for that
+good advice
+the good thing is, if you export directly to Google Sheets, it does it automatically  
+Can you ping me when you have 2min. ?  I have a small not complicated question for you (sort of a matter of opinion, and I would like to hear your thoughts)
+if we don't make them clinical-division specific, we can use 1 campaign for ALL Davos things
+so you suggest I call the Spine campaign tag "aos-2020-davos-courses-register" ?
+I just reminded Tomas about my request for Pardot analytics
+he said we should not wait for him to return from holidays, and organize a call with Valtech to see what they can do
+or IF they can do anything
+Jie, quick question: in the re-subscribe landing page you created, what does the "I'm not interested" radial button do?  Does it set the "Receive AO Spine e-mails" flag to FALSE, or does it set the "Email Opt Out" to TRUE ?
+Aggggg...when you submit the landing page, there's no acknowledgement that "Your preferences have been updated" of any kind.  We should create a subsequent "landing page" that only says "Your preferences have been updated.  Thank you".
+Hi Jie, thank you for the unsubscribe interactions.  Interesting that MOST people updated their preferences, but not necessarily unsubscribed.  The Pardot report BY e-mail says that only 40 people in total unsubscribed:
+Good morning, Jie.  You got a few min?  We have a Davos Courses sh!tstorm brewing, and I'd like to have a word with you about an idea I have about it.
+my bad, it was 2799
+hey, nobody here seems to know
+Ginesa suggested we asked the Education Institute
+so whatever list you choose, with your common sense, will be just as good as any AO Spine expert's opinion
+I went for a jog before lunch, so my midday break was long, and I didn't carry my phone with me
+Hi Jie.  Do you know if there was any progress with myAO GA?
+The last update is from back in August, and supposedly GA would be available in mid-September
+oh, it's a loooong answer...
+they are not going to include an AO container?
+They are so strange, sometimes
+I just would like to know how many users we have been getting in November/December/Jan
+we will include their RSS in myAO if they include some AO news in their news feed
+so I want to mention how many registered and active users the current version of myAO has
+Let's see what Brian suggests
+I would love to move the newsletter to Sitecore, provided that Nougat can continue to do it
+If we must rely on Felix or Chrigi to upload it, then it's a no-go
+niiiiiiiiiiiiiiiiiiiiiiiice
+I can see that you overwrote any random field (in your case you used "Recipient state") with the code
+I see, but you HAVE to use some very specific header names, right?
+You can't just use "First name", you HAVE to use "Contact: First Name", correct?
+Came across this interesting video.  May be a bit too basic for you, but there's a handful of interesting tips/tools throughout
+Hi Jie.  I was asked by the CD platform to give an update of the existing Dashboards, and I thought I could just show them our existing CD online behaviour dashboards
+But I only have access to Spine.  Would you mind giving me access to at least also CMF?
+apparentl the other CDs didn't use them so much, so their surgeons don't even know we have them
+Hi Jie.  When you have a minute would you be so kind to extend my rights to all AO properties in GA?  I am running an analysis on SR by CD, and I would need to look at the Trauma, CMF and Vet sites as well
+you mean, to create a new Google account using my AO Spine e-mail address, right?
+Holy cow, that's a long list
+I think I MAY be able to create some information out of some top-level data
+I guess that should be enough.  Would you please be so kind to share the log-in credentials for our @aofoundation.org with me?  I'd like to take a quick look at backlinking
+Oh, we need to connect SEMrush to Google Console.  I guess we'll have to ask Rita for help, as it's done via DNS configuration
+I had a suspicion that we haven't yet started working on a linking strategy, which I sort of confirmed by looking at a quick & dirty competitive overview in spine
+a LOT more than what Valtech suggested, which is heavily focused on SERP visibility but not ranking
+By visibility I meant each individual saliency, how much it pops out
+they focused a lot of their recommendations in structured data
+which only works to make the result within each SERP more obvious
+with smart snippets or cards
+but I don't think we have the right Types to have Google or Bing make smart snippers
+I put together a little slide deck about it for Jayr, I'll share it with you
+I had a meeting with Brian and Roger yesterday, to understand if it's even possible to have structured data in our course pages, which would be the most important pages to promote
+He seemed to know well what he was talking about, but again...I have a hard time believeing that the CMS offers NO chances of creating metatags
+In any case, there are 2 things to work on: 1) getting our results higher in rank, and 2) getting our results to stand-out more in whichever SERP they are
+e.g.: identify KEY text to include in Wikipedia for each CD, exchange links with all major regional and local societies, have leading specialized press media to include links after each article they publish from us, etc
+Hi Jie.  What profile do you have in Pardot?  I'm trying to see the members of each group, but I can't.  We we get admin rights, or is that strictly saved for IT?
+I did a very quick and rough one, filtering for only "Event Detail" pages, and got that Social Media represents only about 4% of the source of traffic.  That would be quite sad for them, as they have put SO MUCH effort in social.  But I would find it unsurprising.
+Hi Jie.  If you have a few minutes, could you see if you can make a quick and rough chart for CMF's CMM pages for all of 2020, and their sources?  
+Hey, Jie, I just got off a call with Sabine, who will be happy to start working on setting up the architecture between Sitecore/Pardot and Salesforce for putting some content behind a registration wall.  
+In order to track downloads, we would need to set-up events in all CDs as we did in Spine.  Perhaps the easiest one is grouping all PDF downloads?
+Can you find the time either this week or early next week, and see how we can standardize analytics for downloads?
+oh, no, no, that's not what I meant at all. I just meant to standarize within each property, but track the same series of events.  For example: In Spine we track external links, and PDF downloads.  In Trauma we track service requests.  In CMF we don't track any events.
+Jie, I hope you understand that my e-mail is directed to Josh and Liz, and they cannot tell us whom to work with. Please go ahead and grant Cestmir access to Facebook Business for AO Spine.  If we all agree that we no longer want to work with him, I'm happy to accept existing first-hand experience.  We can look for a new vendor simultaneously. 
+I don't like or want to antagonize with colleagues. But it's none of their business who we work with. I don't tell them who they can work with either.
+I realized that with the new addresses and my old position, I'm using 2 (now 3) different addresses.  I cannot access the Data Studio via my aospine.org address, which I now have to change to AO Foundation anyhow
+Working on it.  Apparently you CAN change your e-mail address in a Google account
+We launched a paid campaign 2 weeks ago, and we're bringing some 25 unique visitors per day to the page, with under 1 CTA click.  I'm wondering how people spend their 2.5min. on that page
+Good morning, Jie.  HR is going to start preparing the home-office working agreements, and they want to know what days of the week do you want to write in your contracts as "working from home".  FYI, I started planning to set up any potential team meetings on Wednesdays.
+Good morning, Jie.  Have you already worked on the new Data Studio for Davos Courses 2021? Have you coordinated with Sasi to plug the paid campaign data in it?
+
+
+
+
+
+
+
